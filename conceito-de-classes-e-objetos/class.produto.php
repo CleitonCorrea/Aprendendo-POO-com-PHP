@@ -9,10 +9,10 @@ class Produto {
 
 	function exibirCaracteristicas(){
 
-		echo 'codigo '.$this->codigo.'<br />';
-		echo 'descricao '.$this->descricao.'<br />';
-		echo 'preco '.$this->preco.'<br />';
-		echo 'quantidade '.$this->quantidade;
+		echo 'Codigo: '    .$this->codigo.'<br />';
+		echo 'Descricao: ' .$this->descricao.'<br />';
+		echo 'Preco: '     .$this->preco.'<br />';
+		echo 'Quantidade: '.$this->quantidade;
 
 	}
 

@@ -9,7 +9,7 @@
 
 <?php 
 
-	include_once 'classes/class.produto.php';
+	include_once 'class.produto.php';
 
 	$produto = new Produto;
 
